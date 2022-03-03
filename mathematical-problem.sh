@@ -8,4 +8,6 @@ z=$(($x - $y))
 echo "$z =is the subtraction of above two numbers";
 z=$(($x * $y))
 echo "$z =is the multiplication of above two numbers";
+z=$(($x / $y))
+echo "$z =is the division of above two number";
 
